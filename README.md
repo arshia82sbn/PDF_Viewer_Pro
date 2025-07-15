@@ -133,5 +133,3 @@ Before you jump in, make sure you have:
 Got questions or cool ideas? Reach out to the author:  
 - **Author**: Arshia  
 - **Email**: [arshia82sbn@gmail.com](mailto:arshia82sbn@gmail.com)  
-
-Happy PDF exploring! 📖✨
