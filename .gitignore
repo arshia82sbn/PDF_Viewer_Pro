@@ -1,0 +1,29 @@
+# ======================================
+# Python bytecode and cache
+# ======================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================================
+# IDEs and Editors
+# ======================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# ======================================
+# PyInstaller / executables
+# ======================================
+*.spec
+output/
+*.exe
+*.dll
+*.so
+*.dylib
