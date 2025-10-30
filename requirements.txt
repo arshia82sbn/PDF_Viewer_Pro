@@ -1,0 +1,6 @@
+collections==1.0  # Part of Python standard library, no separate installation needed
+threading==1.0   # Part of Python standard library, no separate installation needed
+customtkinter==5.2.0  # Latest stable version as of mid-2025
+PyMuPDF==1.24.2  # Latest stable version for fitz, compatible with PDF processing
+nltk==3.8.1      # Latest stable version with punkt and stopwords support
+Pillow==10.3.0   # Latest stable version for image handling (e.g., logos)
